@@ -14,6 +14,6 @@ Familiarize yourself with the express docs and the methods they use. In the serv
 
 [Express](http://expressjs.com/?"target=_blank")
 
-[Req Rez Lifecycle](https://learn.galvanize.com/content/gSchool/blended-learning-path/17-04-BD-WD-g68/2-module-b/web-requests/01-request-response.md?"target=_blank")
+[Req Rez Lifecycle](https://learn.galvanize.com/content/gSchool/blended-learning-path/17-04-BD-WD-g68/2-module-b/web-requests/01-request-response.md/?"target=_blank")
 
-[Old Curriculum Notes on http](https://learn.galvanize.com/content/gSchool/browser-dom-curriculum/master/HTTP/README.md?"target=_blank")
+[Old Curriculum Notes on http](https://learn.galvanize.com/content/gSchool/browser-dom-curriculum/master/HTTP/README.md/?"target=_blank")
